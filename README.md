@@ -5,7 +5,9 @@ This project was created to test some JavaScript test tools.
 ## :toolbox: Tools List
 
 - Chai - https://github.com/chaijs/chai
-  Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+- Jasmine - https://github.com/jasmine/jasmine
+- Mocha - https://github.com/mochajs/mocha
+- NodeJS Assert Module - https://nodejs.org/api/assert.html
 
 ## :man: Author
 
