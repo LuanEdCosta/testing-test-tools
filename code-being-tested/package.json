@@ -2,5 +2,6 @@
   "name": "code-being-tested",
   "version": "0.0.0",
   "main": "index.js",
-  "type": "module"
+  "type": "module",
+  "license": "MIT"
 }
